@@ -9,7 +9,7 @@ Muitas empresas se cadastraram através do site da Pag Solar e precisamos analis
 2. Quais regras você estabeleceria para entrada e recusa de parceiros em nossa plataforma?
 
 
-Para este projeto será utilizado uma base de dados com os seguintes atributos:
+Para este projeto será utilizado uma base de dados chamado empresas.csv com os seguintes atributos:
 * Id - Código identificador dos parceiros.
 * Estado_Empresa - O estado onde a empresa reside.
 * Cnae_empresa - A Classificação Nacional de Atividades Econômicas é utilizada para determinar quais atividades são exercidas por uma empresa.
